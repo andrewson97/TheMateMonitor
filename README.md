@@ -25,5 +25,6 @@ a system to monitor inmates
  - gone through the tutorials of how to use things network and amazon services to get use of IoT
  
  ### option 3 
- mbedOS provide online compilers which can imitate original hardware devices and can send fake data to things network. But the development boards and sensors are limited. So have to use different data for example temperature instead of location coordinates and have to manupulate the functions of the monitoring systems to react to the data type available.
+mbedOS provide online compilers which can imitate original hardware devices and can send fake data to things network. But the development boards and sensors are limited. So have to use different data for example temperature instead of location coordinates and have to manupulate the functions of the monitoring systems to react to the data type available.
+- Have tried connecting one development board to things network
 
