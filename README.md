@@ -8,7 +8,7 @@ a system to monitor inmates
 
 ### option 1
  To Work on Omnett++ and to create a full virtual envirnment for a LoraWan network to transmit data using LOraWan protocols.
- - outcome - a deep understanding on how the LoraWan protocol works anbd how  each component of the network play its part. The components available on the inet library an be used i tried to build a node and a gateway using the components of inet library.
+ - outcome - a deep understanding on how the LoraWan protocol works anbd how  each component of the network play its part. The components available on the inet library can be used. I have tried to build a node and a gateway using the components of inet library and flora library.
  - 
 - node
 <img src="https://user-images.githubusercontent.com/58026793/135358733-2366dff5-b23c-44f6-9c54-9a8ac9490e4a.png" width="700" />
@@ -17,7 +17,7 @@ a system to monitor inmates
 <img src="https://user-images.githubusercontent.com/58026793/135359389-a9834925-1ef1-4e1d-a74c-0716b4ba408d.png" width="700" />
 
 ######## Draw backs
-- have to create everything and within the timespan only would be able to create a lorawan network
+- have to create everything and within the timespan. So, only would be able to create a lorawan network simulation.
 - cannot connect to things network from omnet++ so need to simulate everything inside omnetPP
 
 ### option 2
